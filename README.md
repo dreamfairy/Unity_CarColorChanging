@@ -1,2 +1,6 @@
 # Unity_CarColorChanging
-For a child memory
+10年前看到的一个车展效果很酷炫，当年是个小屁孩撒也不懂，就是痴痴的看哭了
+今天突然看到一个广告也是这样，回忆冲上心头，就想试着做一下
+做起来并不复杂，10分钟就做完了。。。。
+补上遗憾 :)
+![alt text](Assets/Preview/20221227_144849.gif)
